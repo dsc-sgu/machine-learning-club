@@ -1,0 +1,29 @@
+\documentclass[bachelor]{SCWorks}
+\usepackage{preamble}
+
+
+\titleformat{\section}[block]
+    {\Large\bfseries}
+    {}
+    {1em}
+    {}
+
+\titleformat{\subsection}[block]
+    {\large\bfserielecture}
+    {}
+    {1em}
+    {}
+    
+\begin{document}
+
+\secNumbering
+
+\include{src/sections/params}
+\include{src/sections/impurity}
+\include{src/sections/pruning_trees}
+\include{src/sections/categorical_features}
+\include{src/sections/surrogate}
+
+\newpage
+\appendix
+\end{document}

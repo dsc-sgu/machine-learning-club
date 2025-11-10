@@ -13,3 +13,5 @@ _lecture_5_ - Логистическая регрессия (Logistic Regression
 _lecture_6_ - Метод опорных Векторов (Support Vector Machine, SVM)
 
 _lecture_7_ - Решающие деревья (Decision Trees)
+
+_lecture_8_ - Продолжение решающих деревьев
