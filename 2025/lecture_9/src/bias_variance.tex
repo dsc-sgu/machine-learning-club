@@ -1,0 +1,30 @@
+\documentclass[bachelor]{SCWorks}
+\usepackage{preamble}
+
+
+\titleformat{\section}[block]
+    {\Large\bfseries}
+    {}
+    {1em}
+    {}
+
+\titleformat{\subsection}[block]
+    {\large\bfserielecture}
+    {}
+    {1em}
+    {}
+    
+\begin{document}
+
+\secNumbering
+
+\include{src/sections/intro}
+\include{src/sections/definitions}
+\include{src/sections/bv_decomp}
+\include{src/sections/bvd_meaning}
+\include{src/sections/meaning}
+\include{src/sections/folds}
+
+\newpage
+\appendix
+\end{document}

@@ -15,3 +15,5 @@ _lecture_6_ - Метод опорных Векторов (Support Vector Machine
 _lecture_7_ - Решающие деревья (Decision Trees)
 
 _lecture_8_ - Продолжение решающих деревьев
+
+_lecture_9_ - Разложение ошибки на смещение и разброс (Bias-Variance Decomposition, BVD)
