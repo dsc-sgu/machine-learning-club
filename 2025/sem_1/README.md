@@ -1,4 +1,4 @@
-# Интенсив "Обучение с учителем"
+# 1 семестр. Интенсив "Обучение с учителем"
 
 _lecture_1_ - Линейные модели. Регрессия (Linear Regression)
 
@@ -6,11 +6,11 @@ _lecture_2_ - Функции потерь. Методы регуляризаци
 
 _lecture_3_ - Введение в градиентный спуск (Gradient Descent)
 
-_lecture_4_ - Продолжение градиентного спуска. Введение в классификацию. (Classification problem)
+_lecture_4_ - Продолжение градиентного спуска. Введение в классификацию. (Classification Task)
 
 _lecture_5_ - Логистическая регрессия (Logistic Regression)
 
-_lecture_6_ - Метод опорных Векторов (Support Vector Machine, SVM)
+_lecture_6_ - Метод опорных векторов (Support Vector Machine, SVM)
 
 _lecture_7_ - Решающие деревья (Decision Trees)
 
