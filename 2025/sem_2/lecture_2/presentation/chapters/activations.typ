@@ -90,6 +90,3 @@ $
 #figure(
   image("../assets/lrelu.png")
 )
-
-#pagebreak()
-ReLU и Leaky ReLU являются наиболее предпочтительными функциями активации.
